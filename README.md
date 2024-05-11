@@ -32,7 +32,21 @@ encountered during its execution.
   - [References](#References)
 
 # More About Our Project
+This paper presents a project that embodies object detection software with an embedded hardware system, utilizing both traditional and cutting-edge technologies to achieve object detection. The project integrates an OV7670 camera module with a Field Programmable Gate Array (FPGA) for image capture and display, followed by object detection using a pre-trained Yolov4 model on a separate computer system.
+  - Hardware Requirements:
+    - 1.	Nexys A7-100T FPGA Developmental Board (1)
+    - 2.	Female-Female Jumper Pins (16)
+    - 3.	Female-Male Jumper Pins (4)
+    - 4.	4.7k Ohm Pull-Resistors (2)
+    - 5.	Male-Male VGA Video Connector (1)
+    - 6.	OV7670 CMOS VGA (640x480) Camera (1)
+    - 7.	Monitor that supports VGA (1)
+    - 8.	Breadboard (1)
 
+  - Software Requirement:
+    - Vivado.
+    - Anaconda Environment.
+    - Yolov4 Object Detection Model. 
 
 # Experiment Setup: 
 
