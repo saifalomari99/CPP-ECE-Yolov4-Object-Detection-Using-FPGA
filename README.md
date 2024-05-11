@@ -26,6 +26,8 @@ encountered during its execution.
 - [CPP-ECE-Yolov4-Object-Detection-Using-FPGA](#CPP-ECE-Yolov4-Object-Detection-Using-FPGA)
   - [Table of Contents](#table-of-contents)
   - [More About Our Project](#More-About-Our-Project)
+  - [Experiment Setup](#Experiment Setup)
+  - [Yolov4 Experiment Results](#Yolov4 Experiment Results)
   - [Tutorials](#Tutorials)
     - Download and Run Yolov4
     - Setting Up The HDL System
@@ -48,13 +50,13 @@ This paper presents a project that embodies object detection software with an em
     - Anaconda Environment with Conda Python installed.
     - Yolov4 Object Detection Model. 
 
-# Experiment Setup: 
+# Experiment Setup
 The experimental setup, as illustrated in Figure 2, comprehensively demonstrates the integration of the OV7670 camera module with the FPGA, which is further connected to a VGA screen. The OV7670 camera module captures visual data and transmits it to the FPGA via General Purpose Input/Output (GPIO) interfaces. Within the FPGA, this data undergoes initial processing, including formatting and preliminary image adjustments necessary for VGA compatibility. This processed data is then displayed on a VGA screen, allowing for real-time visual verification of the captured images. In this setup, while the FPGA efficiently handles real-time data processing and display, it does not directly communicate
 with the computer system running the Yolov4 model. Instead, the video output displayed on the VGA screen is captured and transferred to the PC manually.
 
 <img src='./Images/experimental_setup.jpg' width='400'>
 
-# Yolov4 Experiment Results: 
+# Yolov4 Experiment Results
 
 The following picture is captured from the demo video that was done during the experiment. The first picture shows the original capture and the second shows the capture after running it through Yolov4 and it shows the detected objects:
 
