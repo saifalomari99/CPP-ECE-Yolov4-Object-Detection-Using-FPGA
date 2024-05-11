@@ -61,13 +61,22 @@ encountered during its execution.
     ```
     and you get:
     
-    Python 3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)] on win32
+    Python 3.11.7 | packaged by Anaconda, Inc. | [MSC v.1916 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.
 
 
-  - Second:
+  - Second: YOLOv4 Object Detection Download and Run:
+      - Step 1: Clone Repository from The AI Guy. His work on AI and machine learning techniques is excellent.
+      - Link to the GitHub Repo: https://github.com/theAIGuysCode/yolov4-custom-functions
+            ```sh
+            conda install -c anaconda git
+            git clone https://github.com/augmentedstartups/yolov4-custom-functions.git
+            ```
+        
+      Step 2: 
     
     <img src='./Images/testing_image.png' width='400'>
+
   
 - # Setting Up The HDL System
   asdasdasd
@@ -76,3 +85,5 @@ encountered during its execution.
 
 
 # References
+
+https://github.com/theAIGuysCode/yolov4-custom-functions
