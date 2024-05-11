@@ -27,8 +27,8 @@ encountered during its execution.
   - [Table of Contents](#table-of-contents)
   - [More About Our Project](#More-About-Our-Project)
   - [Tutorials](#Tutorials)
-    - [Download and Run Yolov4](###Download and Run Yolov4)
-    - [Setting Up The HDL System](#Setting Up The HDL System)
+    - Download and Run Yolov4
+    - Setting Up The HDL System
   - [References](#References)
 
 # More About Our Project
