@@ -151,7 +151,7 @@ The following picture is captured from the demo video that was done during the e
   
 ## Setting Up The HDL System
 
-    <img src='./Images/HDL_system_diagram.jpg' width='400'>
+<img src='./Images/HDL_system_diagram.jpg' width='400'>
 
 
 
