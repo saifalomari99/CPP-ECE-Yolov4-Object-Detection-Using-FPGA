@@ -13,13 +13,14 @@ This Project .......
 
 
 # Table of Contents
-- [CPP-ECE-FPGA-PLACEMENT-AND-LEGALIZATION](#CPP-ECE-Yolov4-Object-Detection-Using-FPGA)
+- [CPP-ECE-Yolov4-Object-Detection-Using-FPGA](#CPP-ECE-Yolov4-Object-Detection-Using-FPGA)
   - [Table of Contents](#table-of-contents)
   - [More About Our Project](#More-About-Our-Project)
-  - [DREAMPlaceFPGA Placement Flow and Methodology](#DREAMPlaceFPGA-Placement-Flow-and-Methodology)
   - [Tutorials](#Tutorials)
 
 # More About Our Project
 
 
-# DREAMPlaceFPGA Placement Flow and Methodology
+
+
+# Tutorials
