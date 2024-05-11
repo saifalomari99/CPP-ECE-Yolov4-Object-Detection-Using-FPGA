@@ -38,8 +38,8 @@ encountered during its execution.
 
 # Yolov4 Experiment Results: 
 
-<img src='./Images/before.jpg' width='500'>
-<img src='./Images/after.jpg' width='500'>
+<img src='./Images/before.jpg' width='400'>
+<img src='./Images/after.jpg' width='400'>
 
 # Tutorials
 
