@@ -52,7 +52,7 @@ This paper presents a project that embodies object detection software with an em
     - Anaconda Environment with Conda Python installed.
     - Yolov4 Object Detection Model.
       
-  - <img src='./Images/Full_System_Diagram.png' width='700'>
+    <img src='./Images/Full_System_Diagram.png' width='700'>
 
 # Experiment Setup
 The experimental setup, as illustrated in Figure 2, comprehensively demonstrates the integration of the OV7670 camera module with the FPGA, which is further connected to a VGA screen. The OV7670 camera module captures visual data and transmits it to the FPGA via General Purpose Input/Output (GPIO) interfaces. Within the FPGA, this data undergoes initial processing, including formatting and preliminary image adjustments necessary for VGA compatibility. This processed data is then displayed on a VGA screen, allowing for real-time visual verification of the captured images. In this setup, while the FPGA efficiently handles real-time data processing and display, it does not directly communicate
