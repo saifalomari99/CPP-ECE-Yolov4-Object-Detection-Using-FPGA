@@ -34,28 +34,32 @@ encountered during its execution.
 # More About Our Project
 This paper presents a project that embodies object detection software with an embedded hardware system, utilizing both traditional and cutting-edge technologies to achieve object detection. The project integrates an OV7670 camera module with a Field Programmable Gate Array (FPGA) for image capture and display, followed by object detection using a pre-trained Yolov4 model on a separate computer system.
   - Hardware Requirements:
-    - 1.	Nexys A7-100T FPGA Developmental Board (1)
-    - 2.	Female-Female Jumper Pins (16)
-    - 3.	Female-Male Jumper Pins (4)
-    - 4.	4.7k Ohm Pull-Resistors (2)
-    - 5.	Male-Male VGA Video Connector (1)
-    - 6.	OV7670 CMOS VGA (640x480) Camera (1)
-    - 7.	Monitor that supports VGA (1)
-    - 8.	Breadboard (1)
+    - Nexys A7-100T FPGA Developmental Board (1)
+    - Female-Female Jumper Pins (16)
+    - Female-Male Jumper Pins (4)
+    - 4.7k Ohm Pull-Resistors (2)
+    - Male-Male VGA Video Connector (1)
+    - OV7670 CMOS VGA (640x480) Camera (1)
+    - Monitor that supports VGA (1)
+    - Breadboard (1)
 
   - Software Requirement:
     - Vivado.
-    - Anaconda Environment.
+    - Anaconda Environment with Conda Python installed.
     - Yolov4 Object Detection Model. 
 
 # Experiment Setup: 
+The experimental setup, as illustrated in Figure 2, comprehensively demonstrates the integration of the OV7670 camera module with the FPGA, which is further connected to a VGA screen. The OV7670 camera module captures visual data and transmits it to the FPGA via General Purpose Input/Output (GPIO) interfaces. Within the FPGA, this data undergoes initial processing, including formatting and preliminary image adjustments necessary for VGA compatibility. This processed data is then displayed on a VGA screen, allowing for real-time visual verification of the captured images. In this setup, while the FPGA efficiently handles real-time data processing and display, it does not directly communicate
+with the computer system running the Yolov4 model. Instead, the video output displayed on the VGA screen is captured and transferred to the PC manually.
 
 <img src='./Images/experimental_setup.jpg' width='500'>
 
 # Yolov4 Experiment Results: 
 
-<img src='./Images/before.jpg' width='400'>
-<img src='./Images/after.jpg' width='400'>
+The following picture is captured from the demo video that was done during the experiment. The first picture shows the original capture and the second shows the capture after running it through Yolov4 and it shows the detected objects:
+
+<img src='./Images/before.jpg' width='300'>
+<img src='./Images/after.jpg' width='300'>
 
 # Tutorials
 ## Download and Run Yolov4
