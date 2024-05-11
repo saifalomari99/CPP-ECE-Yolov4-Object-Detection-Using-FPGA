@@ -52,7 +52,7 @@ This paper presents a project that embodies object detection software with an em
 The experimental setup, as illustrated in Figure 2, comprehensively demonstrates the integration of the OV7670 camera module with the FPGA, which is further connected to a VGA screen. The OV7670 camera module captures visual data and transmits it to the FPGA via General Purpose Input/Output (GPIO) interfaces. Within the FPGA, this data undergoes initial processing, including formatting and preliminary image adjustments necessary for VGA compatibility. This processed data is then displayed on a VGA screen, allowing for real-time visual verification of the captured images. In this setup, while the FPGA efficiently handles real-time data processing and display, it does not directly communicate
 with the computer system running the Yolov4 model. Instead, the video output displayed on the VGA screen is captured and transferred to the PC manually.
 
-<img src='./Images/experimental_setup.jpg' width='500'>
+<img src='./Images/experimental_setup.jpg' width='400'>
 
 # Yolov4 Experiment Results: 
 
