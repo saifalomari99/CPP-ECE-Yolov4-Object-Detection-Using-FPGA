@@ -44,19 +44,23 @@ encountered during its execution.
 # Tutorials
 - # Download and Run Yolov4
   - First: We need to install Anaconda with Conda Python:
+    
     This tutoial is to show how we can run Anaconda Environment on your device
     This includes Conda for Python as well
 
     Step 1: Downloading Anaconda for Windows
+    
     The following link is to download the Anaconda package that already has Conda in it:
       https://docs.anaconda.com/free/anaconda/install/windows/
 
     Step 2: Verify The Installation
+    
     Now, to verify the installation, type python into the Anaconda PowerShell Prompt:
     ```sh
     python
     ```
     and you get:
+    
     Python 3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.
 
