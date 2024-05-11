@@ -53,13 +53,14 @@ encountered during its execution.
 
     Step 2: Verify The Installation
     Now, to verify the installation, type python into the Anaconda PowerShell Prompt:
-    python
+    'python'
     and you get:
     Python 3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.
 
 
-  - Second: 
+  - Second:
+    
     <img src='./Images/testing_image.png' width='400'>
   
 - # Setting Up The HDL System
