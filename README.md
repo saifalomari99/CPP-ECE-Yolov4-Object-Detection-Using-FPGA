@@ -66,14 +66,14 @@ encountered during its execution.
 
 
   - Second: YOLOv4 Object Detection Download and Run:
-      - Step 1: Clone Repository from The AI Guy. His work on AI and machine learning techniques is excellent.
-      - Link to the GitHub Repo: https://github.com/theAIGuysCode/yolov4-custom-functions
-            ```sh
-            conda install -c anaconda git
-            git clone https://github.com/augmentedstartups/yolov4-custom-functions.git
-            ```
+    Step 1: Clone Repository from The AI Guy. His work on AI and machine learning techniques is excellent.
+    Link to the GitHub Repo: https://github.com/theAIGuysCode/yolov4-custom-functions
+    ```sh
+    conda install -c anaconda git
+    git clone https://github.com/augmentedstartups/yolov4-custom-functions.git
+    ```
         
-      Step 2: 
+    Step 2: 
     
     <img src='./Images/testing_image.png' width='400'>
 
