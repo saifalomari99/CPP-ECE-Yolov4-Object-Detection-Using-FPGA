@@ -18,6 +18,7 @@ encountered during its execution.
 - (2) Jared Alanis
 - (3) Dawson Graf
 
+
 <img src='./Images/social_preview.png' width='800'>
 
 
@@ -27,7 +28,7 @@ encountered during its execution.
   - [Table of Contents](#table-of-contents)
   - [More About Our Project](#More-About-Our-Project)
   - [Experiment Setup](#Experiment-Setup)
-  - [Yolov4 Experiment Results](#Yolov4 Experiment-Results)
+  - [Yolov4 Experiment Results](#Yolov4-Experiment-Results)
   - [Tutorials](#Tutorials)
     - [Download and Run Yolov4](#Download-and-Run-Yolov4)
     - [Setting Up The HDL System](#Setting-Up-The-HDL-System)
