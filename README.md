@@ -26,11 +26,11 @@ encountered during its execution.
 - [CPP-ECE-Yolov4-Object-Detection-Using-FPGA](#CPP-ECE-Yolov4-Object-Detection-Using-FPGA)
   - [Table of Contents](#table-of-contents)
   - [More About Our Project](#More-About-Our-Project)
-  - [Experiment Setup](#Experiment Setup)
-  - [Yolov4 Experiment Results](#Yolov4 Experiment Results)
+  - [Experiment Setup](#Experiment-Setup)
+  - [Yolov4 Experiment Results](#Yolov4 Experiment-Results)
   - [Tutorials](#Tutorials)
-    - Download and Run Yolov4
-    - Setting Up The HDL System
+    - [Download and Run Yolov4](#Download-and-Run-Yolov4)
+    - [Setting Up The HDL System](#Setting-Up-The-HDL-System)
   - [References](#References)
 
 # More About Our Project
