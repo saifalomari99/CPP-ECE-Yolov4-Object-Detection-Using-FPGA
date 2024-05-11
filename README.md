@@ -8,7 +8,7 @@ This Project .......
 - (3) Dawson Graf
 - (4) Benjamin Black
 
-<img src='./images/social_preview.png' width='800'>
+<img src='./Images/social_preview.png' width='800'>
 
 
 
