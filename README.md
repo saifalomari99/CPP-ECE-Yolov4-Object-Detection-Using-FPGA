@@ -49,7 +49,7 @@ This paper presents a project that embodies object detection software with an em
     - Yolov4 Object Detection Model. 
 
 # Experiment Setup: 
-The experimental setup, as illustrated in Figure 2, comprehensively demonstrates the integration of the OV7670 camera module with the FPGA, which is further connected to a VGA screen. The OV7670 camera module captures visual data and transmits it to the FPGA via General Purpose Input/Output (GPIO) interfaces. Within the FPGA, this data undergoes initial processing, including formatting and preliminary image adjustments necessary for VGA compatibility. This processed data is then displayed on a VGA screen, allowing for real-time visual verification of the captured images. In this setup, while the FPGA efficiently handles real-time data processing and display, it does not directly communicate
+The experimental setup, as illustrated in Figure 2, comprehensively demonstrates the integration of the OV7670 camera module with the FPGA, which is further connected to a VGA screen. The OV7670 camera module captures visual data and transmits it to the FPGA via General Purpose Input/Output (GPIO) interfaces. Within the FPGA, this data undergoes initial processing, including formatting and preliminary image adjustments necessary for VGA compatibility. This processed data is then displayed on a VGA screen, allowing for real-time visual verification of the captured images. In this setup, while the FPGA efficiently handles real-time data processing and display, it does not directly communicate
 with the computer system running the Yolov4 model. Instead, the video output displayed on the VGA screen is captured and transferred to the PC manually.
 
 <img src='./Images/experimental_setup.jpg' width='400'>
@@ -65,7 +65,7 @@ The following picture is captured from the demo video that was done during the e
 ## Download and Run Yolov4
   - First: We need to install Anaconda with Conda Python:
     
-    This tutoial is to show how we can run Anaconda Environment on your device
+    This tutorial is to show how we can run Anaconda Environment on your device
     This includes Conda for Python as well
 
     Step 1: Downloading Anaconda for Windows
