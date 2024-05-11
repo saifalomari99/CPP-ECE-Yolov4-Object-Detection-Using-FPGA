@@ -6,7 +6,6 @@ This Project .......
 - (1) Saif Alomari [saifalomari99](https://github.com/saifalomari99)
 - (2) Jared Alanis
 - (3) Dawson Graf
-- (4) Benjamin Black
 
 <img src='./Images/social_preview.png' width='800'>
 
