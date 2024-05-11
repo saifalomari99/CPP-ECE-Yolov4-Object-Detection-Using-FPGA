@@ -27,8 +27,8 @@ encountered during its execution.
   - [Table of Contents](#table-of-contents)
   - [More About Our Project](#More-About-Our-Project)
   - [Tutorials](#Tutorials)
-      -  [Download and Run Yolov4](# Download and Run Yolov4)
-      -  [Setting Up The HDL System](# Setting Up The HDL System)
+      -  [Download and Run Yolov4](#Download and Run Yolov4)
+      -  [Setting Up The HDL System](#Setting Up The HDL System)
   - [References](#References)
 
 # More About Our Project
@@ -44,7 +44,7 @@ encountered during its execution.
 <img src='./Images/after.jpg' width='400'>
 
 # Tutorials
-- # Download and Run Yolov4
+## Download and Run Yolov4
   - First: We need to install Anaconda with Conda Python:
     
     This tutoial is to show how we can run Anaconda Environment on your device
@@ -80,7 +80,7 @@ encountered during its execution.
     <img src='./Images/testing_image.png' width='400'>
 
   
-- # Setting Up The HDL System
+## Setting Up The HDL System
   asdasdasd
 
 
