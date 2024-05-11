@@ -32,9 +32,17 @@ encountered during its execution.
 # More About Our Project
 
 
+# Experiment Setup: 
 
+<img src='./Images/experimental_setup.jpg' width='500'>
+
+# Yolov4 Experiment Results: 
+
+<img src='./Images/before.jpg' width='500'>
+<img src='./Images/after.jpg' width='500'>
 
 # Tutorials
+
 
 
 
