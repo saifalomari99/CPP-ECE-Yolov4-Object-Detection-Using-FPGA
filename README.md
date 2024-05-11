@@ -151,6 +151,8 @@ The following picture is captured from the demo video that was done during the e
   
 ## Setting Up The HDL System
 
+The FPGA plays a crucial role in our system, serving as the central hub for receiving, processing, and forwarding video data to the VGA display and subsequently to the PC for object detection. As shown in the picture below, the HDL System Diagram illustrates the comprehensive view of the modules within the system, starting from the OV7670 Module, through the Camera Top module, to processing the data and saving them in Block RAM (BRAM), and finally outputting to the VGA Top module.
+
 <img src='./Images/HDL_system_diagram.jpg' width='400'>
 
 
