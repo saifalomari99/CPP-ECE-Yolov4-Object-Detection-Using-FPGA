@@ -18,6 +18,7 @@ encountered during its execution.
 - (2) Jared Alanis
 - (3) Dawson Graf
 
+##
 
 <img src='./Images/social_preview.png' width='800'>
 
